@@ -19,10 +19,13 @@ An end-to-end data pipeline that extracts and visualizes real-time performance m
 4. **Run the App:** `streamlit run dashboard/app.py`
 
 ## Dashboard Images
+No Selection
 <img width="1891" height="456" alt="regular" src="https://github.com/user-attachments/assets/2ff6614e-1943-457f-9aa5-5d5b7c1aaace" />  
 
+Crypto Selection
 <img width="1869" height="719" alt="BTC" src="https://github.com/user-attachments/assets/5223bbf7-4255-44e8-bc40-be792103949f" />  
 
+Stock Selection
 <img width="1909" height="707" alt="AAPL" src="https://github.com/user-attachments/assets/8f680b7e-d2a1-4cdd-b4e5-6143cbee0fb3" />  
 
 
